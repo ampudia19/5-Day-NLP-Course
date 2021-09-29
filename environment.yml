@@ -1,0 +1,21 @@
+name: SummerSchool
+dependencies:
+  - python=3.8.8   # or 2.7 if you are feeling nostalgic
+  - pip
+  - pip:
+    - numpy==1.20.1
+    - pandas
+    - pathlib
+    - nltk
+    - matplotlib
+    - seaborn
+    - wordcloud
+    - sklearn
+    - tqdm
+    - scipy
+    - gensim==3.8.1
+    - yellowbrick
+    - termcolor
+    - pyLDAvis
+    - celluloid
+    - spacy
